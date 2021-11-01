@@ -111,7 +111,7 @@
     height: 40px;
     width: 110px;
     background-color: white;outline: none;
-    border: none
+    border: none;
     color: yellowgreen;
     border-radius: 4px;
 }
@@ -143,4 +143,10 @@
     border: none;
     cursor: pointer;
     display: inline-block;
+}
+
+
+.w-100 {
+    width: 70rem;
+    height: 35rem;
 }
